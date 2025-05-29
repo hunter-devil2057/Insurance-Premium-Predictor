@@ -90,4 +90,4 @@ To run this project locally, ensure you have the following installed:
 
 ## Contact
 For questions or feedback, please open an issue on GitHub or reach out via:  
-[![LinkedIn](https://img.icons8.com/color/24/linkedin.png)](https://www.linkedin.com/in/manish-shiwakoti-01721b260)  | [![Instagram](https://img.icons8.com/color/24/instagram-new.png)](https://www.instagram.com/manish.shiwakoti/)  | [![Gmail](https://img.icons8.com/color/24/gmail.png)](mailto:manishshiwakoti42@gmail.com) |  [![Phone](https://img.icons8.com/color/24/phone.png)](tel:+9779866556820)
+[[LinkedIn](https://img.icons8.com/color/24/linkedin.png)](https://www.linkedin.com/in/manish-shiwakoti-01721b260)  | [[Instagram](https://img.icons8.com/color/24/instagram-new.png)](https://www.instagram.com/manish.shiwakoti/)  | [[Gmail](https://img.icons8.com/color/24/gmail.png)](mailto:manishshiwakoti42@gmail.com) |  [[Phone](https://img.icons8.com/color/24/phone.png)](tel:+9779866556820)
